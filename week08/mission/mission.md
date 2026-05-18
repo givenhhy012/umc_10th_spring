@@ -1,3 +1,6 @@
+미션 수행한 브랜치
+https://github.com/givenhhy012/umc_10th_practice/tree/feature/%238
+
 1. 회원가입 API 구현
 
 ![img.png](img.png)
